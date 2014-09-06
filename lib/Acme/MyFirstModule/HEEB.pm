@@ -4,8 +4,6 @@ use 5.006;
 use strict;
 use warnings FATAL => 'all';
 
-die 'just to test';
-
 =head1 NAME
 
 Acme::MyFirstModule::HEEB - The great new Acme::MyFirstModule::HEEB!
